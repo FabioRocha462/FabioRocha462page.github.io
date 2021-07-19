@@ -1,0 +1,65 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    margin: 0;
+    
+}
+#container{
+    
+    background:url(../img/Fábio\ Rocha\ \(2\).png); 
+    background-size: cover;
+    background-position: center,center;
+    
+   
+   
+}
+.centralnave{
+    margin-right: 550px;
+}
+
+
+.nav-item a{
+    color:white;
+}
+main{
+    margin-top: 100px;
+}
+.aperta{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+h1{
+    color: white;
+    margin-left: 180px;
+}
+p{
+    color:white;
+    margin-left: 180px;
+    
+}
+h2{
+    color:white;
+    margin-left: 180px;
+
+}
+ a{
+     color: white;
+    text-decoration: none;
+    
+}
+.agrupar{
+    margin-left: 95px;
+    margin-right: 95px;
+}
+button{
+    border-style: solid;
+    border-color: red;
+    opacity: 0,9;
+    margin-left: 170px;
+}
+.agrupar1{
+    margin-top: 50px;
+    margin-left: 5px;
+    
+}
